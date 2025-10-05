@@ -19,7 +19,7 @@ Key Features
 Dataset
 --------
 Kepler Exoplanet data sourced from NASA’s public archive:
-https://raw.githubusercontent.com/Siddharths99/NASA-Exoplanet-Detection/refs/heads/main/kepler.csv
+https://raw.githubusercontent.com/Siddharths99/NASA-Exoplanet-Detection/refs/heads/main/data/kepler.csv
 
 Model Summary
 --------------
@@ -46,3 +46,4 @@ Prediction Probability: 0.89
 
 Developed for NASA Space Apps Challenge 2025  
 By: [Your Name]
+
