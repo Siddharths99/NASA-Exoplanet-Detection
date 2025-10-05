@@ -36,8 +36,7 @@ Run Instructions
 -----------------
 Install dependencies:
     pip install pandas numpy scikit-learn imbalanced-learn seaborn matplotlib ipywidgets
-
-Run the notebook in Google Colab or VS Code (Jupyter mode) cell by cell.
+Run the notebook in google collab or run the src in vs code
 
 Example Prediction
 -------------------
@@ -46,5 +45,6 @@ Prediction Probability: 0.89
 
 Developed for NASA Space Apps Challenge 2025  
 By: [Your Name]
+
 
 
