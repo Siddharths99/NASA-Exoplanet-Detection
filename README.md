@@ -1,4 +1,4 @@
-NASA EXOPLANET DETECTION
+NASA EXOHUNTERS
 ========================
 
 Overview
@@ -46,4 +46,5 @@ Prediction Probability: 0.89
 
 Developed for NASA Space Apps Challenge 2025  
 By: [Your Name]
+
 
